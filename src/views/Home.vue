@@ -4,7 +4,7 @@
       loading="lazy"
       style="margin-top: -100px"
       height="100vh"
-      src="../assets/banners/016.png"
+      src="../assets/banners/BANNER PAGINA WEB.jpg"
       gradient="to top right, rgb(24,27,35,.80) 50%, rgba(255,0,0,.80)"
     >
       <!-- texto -->
